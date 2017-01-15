@@ -1,0 +1,166 @@
+.container-fluid{
+	width: 100%;
+	margin-right: auto;
+	margin-left:100px;
+	padding-right: 0;
+	padding-left: 0;
+}
+.logo{
+	width: 180px;
+	height: 120px;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	padding: 12px;
+	margin:10px;
+	font-size: 14px;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: #4A4949;
+}
+.background{
+	background-color:#D8D8D8;
+	height: 120px;
+	width: 100%;
+	margin-left: 1px;
+}
+.parrafo{
+	margin-top: 30px;
+	text-align: center;
+	margin-left: 30px;	
+}
+.semilla{
+	width: 100%;
+	height:480px;
+}
+.mision{
+	margin-left: 160px;
+	margin-top: 20px;
+}
+.titulo{
+	text-align: center;
+}
+.texto{
+	text-align: center;
+	display: inline-block;
+	width: 95%;
+	padding: 10px;
+}
+.metodo{
+	background-image: url(../img/metodo.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.metodologia{
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+	text-align: center;
+	color: #fff;
+}
+.metodologia p{
+	margin-left: 20px;
+	color: #fff;
+	text-align: center;
+	width: 90%;
+}
+.metodologia h1{
+	margin:15px;
+	padding: 20px;
+}
+.metodologia img{
+	margin-top: 40px;
+}
+.titulo2{
+	text-align: center;
+	position: relative;
+	top: 10px;
+}
+.texto2{
+	text-align: center;
+	padding: 10px;
+	margin-left: 70px;
+	margin-bottom: 20px;
+}
+.icono{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.verde{
+	background-color: #608040;
+	width: 100%;
+	height: 350px;
+	margin-top: 30px;
+	
+}
+.verde h1{
+	text-align: center;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.proyecto{
+	margin-top: 70px;
+}
+.proyecto img{
+	height: auto;
+	width: 320px;
+	position: relative;
+	left: -300px;
+	margin-bottom: 20px;
+}
+.proyecto2{
+	float: right;
+	position: relative;
+	top: -220px;
+	left: -80px;
+	color: #F6F6F6;
+	margin-bottom: 20px;
+}
+.proyecto2 p{
+	color: #F6F6F6;
+	margin-left: -5px;
+}
+.perfil{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;	
+}
+.equipo, .equipo1{
+	text-align: center;
+	margin-top: -60px;
+}
+.equipo p, .equipo1 p{
+	text-align: center;
+}
+.contenedor{
+	background-image: url(../img/fondo2.jpg);
+	height: 500px;
+	background-size: cover;
+	margin-top: 40px;
+}
+.contenedor1 img{
+	width: 85%;
+	margin-left: 20px;
+}
+.contenedor1 h3, h5, p{
+	width: 85%;
+	text-align: left;
+	margin-left: 20px;
+	color: #000;
+}
+footer{
+	margin-left: 85px;
+	background-color: #2D2D2D;
+	width: 103%;
+}
+.case{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 16px;
+}
